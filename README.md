@@ -13,7 +13,8 @@
 Para desenvolver o conteúdo abordado no tópico de Grafos 1, a dupla selecionou três exercícios em um juiz online - o LeetCode -, sendo eles, dois de nível difícil e um de nível médio.
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+- [785](https://leetcode.com/problems/is-graph-bipartite/description/)
+<img width="734" alt="Is Graph Bipartite?" src="Grafos1_LeetCode/img/leetcode_785.jpg">
 
 ## Instalação 
 **Linguagem**: C++<br>
