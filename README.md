@@ -13,10 +13,10 @@
 Para desenvolver o conteúdo abordado no tópico de Grafos 1, a dupla selecionou três exercícios em um juiz online - o LeetCode -, sendo eles, dois de nível difícil e um de nível médio.
 
 ## Screenshots
-- [785](https://leetcode.com/problems/is-graph-bipartite/description/)
+- [785 (Médio)](https://leetcode.com/problems/is-graph-bipartite/description/)
 <img width="734" alt="Is Graph Bipartite?" src="https://github.com/projeto-de-algoritmos/Grafos1_LeetCode/blob/master/img/leetcode_785.jpg">
 
-- [882](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/description/)
+- [882 (Difícil)](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/description/)
 <img width="734" alt="I" src="https://github.com/projeto-de-algoritmos/Grafos1_LeetCode/blob/master/img/leetcode_882.jpg">
 
 ## Instalação 
@@ -38,8 +38,3 @@ g++ nome_do_arquivo.cpp -o nome_do_arquivo -Wall
 
 ## Uso 
 Para aplicar os casos de teste (in e out), basta acessar o link referente ao exercício no LeetCode e inserí-los no prompt de comando, também é possível gerar novos casos de teste, desde que cumpram os requisitos do exercício em questão.
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
-
-
-
