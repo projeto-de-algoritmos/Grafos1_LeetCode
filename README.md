@@ -19,6 +19,9 @@ Para desenvolver o conteúdo abordado no tópico de Grafos 1, a dupla selecionou
 - [882 (Difícil)](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/description/)
 <img width="734" alt="I" src="https://github.com/projeto-de-algoritmos/Grafos1_LeetCode/blob/master/img/leetcode_882.jpg">
 
+- [2065 (Difícil)](https://leetcode.com/problems/maximum-path-quality-of-a-graph/)
+<img width="734" alt="I" src="https://github.com/projeto-de-algoritmos/Grafos1_LeetCode/blob/master/img/leetcode_882.jpg">
+
 ## Instalação 
 **Linguagem**: C++<br>
 **Pré-requisitos**: Compilador g++ (contido no GCC)<br>
