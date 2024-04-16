@@ -35,8 +35,8 @@ git clone https://github.com/projeto-de-algoritmos/grafos1_LeetCode.git
 ### 2. Compile o programa
 
 ```bash
-g++ nome_do_arquivo.cpp -o nome_do_arquivo -Wall 
-./nome_do_arquivo
+g++ nome_do_arquivo.cpp -o nome_do_executável -Wall 
+./nome_do_executável
 ```
 
 ## Uso 
