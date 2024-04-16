@@ -41,3 +41,8 @@ g++ nome_do_arquivo.cpp -o nome_do_executável -Wall
 
 ## Uso 
 Para aplicar os casos de teste (in e out), basta acessar o link referente ao exercício no LeetCode e inserí-los no prompt de comando, também é possível gerar novos casos de teste, desde que cumpram os requisitos do exercício em questão.
+
+## Apresentação 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DzwIaUZssiU?si=IpmiYGaUu7uLsJRJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
