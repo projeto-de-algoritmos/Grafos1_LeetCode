@@ -20,7 +20,7 @@ Para desenvolver o conteúdo abordado no tópico de Grafos 1, a dupla selecionou
 <img width="734" alt="I" src="https://github.com/projeto-de-algoritmos/Grafos1_LeetCode/blob/master/img/leetcode_882.jpg">
 
 - [2065 (Difícil)](https://leetcode.com/problems/maximum-path-quality-of-a-graph/)
-<img width="734" alt="I" src="https://github.com/projeto-de-algoritmos/Grafos1_LeetCode/blob/master/img/leetcode_882.jpg">
+<img width="734" alt="I" src="[https://github.com/projeto-de-algoritmos/Grafos1_LeetCode/blob/master/img/leetcode_882.jpg](https://github.com/projeto-de-algoritmos/Grafos1_LeetCode/blob/master/img/leetcode_2065.png)">
 
 ## Instalação 
 **Linguagem**: C++<br>
